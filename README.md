@@ -15,4 +15,4 @@ The source files in this repo are up for development! If you want to contribute,
 2. Adding drivers for USB, Aux, and anything else more modern
 3. Heck, why not add a GUI (Instead of Windows, Panes?...)!
 
-(Also, I don't know any Assembly language, so... that is a problem. Should I just upload Linux drivers written in C...)
+(Also, I don't know any Assembly language, so... that is a problem. Should I just upload FreeDOS drivers written in C and Assembly...)
